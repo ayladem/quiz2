@@ -1,0 +1,10 @@
+[
+    {
+        "petID": 1,
+        "name": "Muezza",
+        "age": 3,
+        "species": "Cat",
+        "color": "grayishwhite",
+        "hobby": "biting",
+        "ownerID": 803
+    }]
